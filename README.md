@@ -17,6 +17,9 @@
 - 이종 그래프(Heterogeneous Graph) 활용: 반품 여부는 단일 상품 특성뿐만 아니라 어떤 고객이, 어떤 주문 맥락에서, 어떤 상품을 샀는지에 따라 달라지기 때문에 **관계 기반 학습의 필요성** -> 고객(Customer), 주문(Order), 상품(Product) 간의 관계 구조를 그래프 형태로 모델링
 - 노드별 Feature 설계: 단순한 raw ID embedding만 쓰지 않고, **구체적인 속성과 전역적 중요도(PageRank)** 를 반영 → 더 풍부한 표현력 확보
 - GraphSAGE 모델 선택: 이웃 정보를 샘플링 후 Aggregation → 대규모 그래프에서도 확장성 확보 , HAN(Heterogeneous Attention Network)보다도 더 나은 성능을 보임
+
+![Image](https://github.com/user-attachments/assets/62a2c08a-26e8-4e1f-97e4-6f50fc7d6db0)
+![Image](https://github.com/user-attachments/assets/2b31e62f-a86e-443f-9068-9298bf771894)
   
 ✔️ Task 1 Validation Performance
 | Method                             | Accuracy (%) |
@@ -46,6 +49,5 @@
 *2인 팀 프로젝트 (KAIST AI506: Data Mining and Search 수업)*
 
 
-![Image](https://github.com/user-attachments/assets/62a2c08a-26e8-4e1f-97e4-6f50fc7d6db0)
-![Image](https://github.com/user-attachments/assets/2b31e62f-a86e-443f-9068-9298bf771894)
+
 
