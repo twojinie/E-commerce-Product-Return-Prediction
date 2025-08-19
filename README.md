@@ -46,6 +46,6 @@
 *2인 팀 프로젝트 (KAIST AI506: Data Mining and Search 수업)*
 
 
-![image]
-![image]
+![Image](https://github.com/user-attachments/assets/62a2c08a-26e8-4e1f-97e4-6f50fc7d6db0)
+![Image](https://github.com/user-attachments/assets/2b31e62f-a86e-443f-9068-9298bf771894)
 
