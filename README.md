@@ -37,8 +37,15 @@ We apply **Heterogeneous Graph Neural Networks (HGNNs)** to capture complex rela
   - HAN also tested, but underperformed vs GraphSAGE  
   - Compared with traditional baselines (SVM, Random Forest)
 
-![Image](https://github.com/user-attachments/assets/62a2c08a-26e8-4e1f-97e4-6f50fc7d6db0)
-![Image](https://github.com/user-attachments/assets/2b31e62f-a86e-443f-9068-9298bf771894)
+<figure>
+  <img src="pic1.png" width="900"/>
+  <figcaption><b>Figure 1.</b> Order-level return prediction pipeline</figcaption>
+</figure>
+
+<figure>
+  <img src="pic2.png" width="900"/>
+  <figcaption><b>Figure 2.</b> Product-level return prediction pipeline</figcaption>
+</figure>
 
 ---
 
