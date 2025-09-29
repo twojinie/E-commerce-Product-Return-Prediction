@@ -10,7 +10,7 @@ We apply **Heterogeneous Graph Neural Networks (HGNNs)** to capture complex rela
 
 - **Task 2: Product-level Return Prediction**  
   Predict whether a product is **Returned (1) or Not (0)**  
-  → [Task 2 README]
+  → [Task 2 README](./product_return_prediction/README.md)
 
 ---
 
