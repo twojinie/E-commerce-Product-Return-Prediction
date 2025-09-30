@@ -8,9 +8,17 @@ We apply **Heterogeneous Graph Neural Networks (HGNNs)** to capture complex rela
   Predict whether an order is **No return (0) / Partial return (1) / Complete return (2)**  
   → [Task 1 README](./order_return_prediction/README.md)
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3b08b78d-fc94-4e65-923f-e5d93191966a" alt="Image 1" width="45%"/>
+</p>
+
 - **Task 2: Product-level Return Prediction**  
   Predict whether a product is **Returned (1) or Not (0)**  
   → [Task 2 README](./product_return_prediction/README.md)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8be20548-68df-4152-a795-9c7184c3321a" alt="Image 2" width="45%"/>
+</p>
 
 ---
 
